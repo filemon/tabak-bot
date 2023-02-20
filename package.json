@@ -1,0 +1,16 @@
+{
+  "name": "tabak_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node tabak.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-telegram-bot-api": "^0.51.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
